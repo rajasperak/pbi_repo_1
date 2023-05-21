@@ -25,4 +25,4 @@ Obtenu grace au code dax ci-dessous:
  ![data](https://github.com/rajasperak/pbi_repo_1/blob/main/page3.PNG)
 - Sinon, nous avons, dans la dernière version de powerBI, à ce jour (Version : 2.115.842.0 64-bit (mars 2023)), on peut faire appel à
 une nouvelle fonctionnalité pour la détection d'anomalie. Elle colle bien à notre usage.
-![data](https://github.com/rajasperak/pbi_repo_1/blob/main/page3.PNG)
+![data](https://github.com/rajasperak/pbi_repo_1/blob/main/page3_2.PNG)
